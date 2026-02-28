@@ -5,7 +5,9 @@ The repository also includes item-level risk metadata derived from an embedding-
 
 In addition, anonymized learner response data from an experimental study based on the lexical dataset are included. These responses are provided as a binary-coded CSV file (student_response_data_binary.csv), representing learner performance on selected lexical items.
 
-Repository structure
+### Repository structure
+
+```
 ├── equivalents_ru_sk.csv          # Russian–Slovak translation equivalents (low-risk baseline)
 ├── homonyms_ru_sk.csv             # Russian–Slovak interlingual homonyms
 ├── item_risk_classification.csv   # Item-level low-risk / high-risk classification
@@ -13,3 +15,4 @@ Repository structure
 ├── README.md
 ├── LICENSE
 └── .gitignore
+```
