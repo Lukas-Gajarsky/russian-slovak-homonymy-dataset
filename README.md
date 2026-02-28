@@ -1,8 +1,10 @@
 # russian-slovak-homonymy-dataset
-Dataset of Russian–Slovak equivalents and interlingual homonyms used in embedding-based predictive didactics research
-Dataset description
-Number of pairs: 300 (150 equivalents + 150 homonyms)
-Format: CSV, columns:
-ru_word
-sk_word
-type (equivalent / homonym)
+This repository contains a curated dataset of Russian–Slovak lexical equivalents and interlingual homonyms for linguistic research and embedding-based predictive didactics. The dataset comprises 300 Russian–Slovak lexical pairs, evenly divided into 150 translation equivalents and 150 interlingual homonyms.
+
+The data are provided in CSV format and organized into two files:
+
+equivalents_ru_sk.csv
+
+homonyms_ru_sk.csv
+
+The repository also includes anonymized learner response data from an experimental study based on the lexical dataset. These responses are provided as a binary-coded CSV file (student_response_data_binary.csv) representing learner performance on selected lexical items.
