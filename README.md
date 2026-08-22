@@ -10,7 +10,7 @@ In addition, anonymized learner response data from an experimental study based o
 
 If you use the data or materials provided in this repository, please cite the following article:
 
-Gajarsky, L., & Kipchatov, M. (2026). Modeling Russian-Slovak interlingual homonymy via embeddings. *Philological Class, 31*(1), 174–184. https://doi.org/10.26170/2071-2405-2026-31-1-174-184
+Gajarsky, L., & Kipchatov, M. (2026). Modeling Russian-Slovak interlingual homonymy via embeddings. *Philological Class, 31*(1), 174–184. DOI: 10.26170/2071-2405-2026-31-1-174-184.
 
 
 ### Repository structure
