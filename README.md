@@ -5,6 +5,14 @@ The repository also includes item-level risk metadata derived from an embedding-
 
 In addition, anonymized learner response data from an experimental study based on the lexical dataset are included. These responses are provided as a binary-coded CSV file (student_response_data_binary.csv), representing learner performance on selected lexical items.
 
+
+### Citation
+
+If you use the data or materials provided in this repository, please cite the following article:
+
+Gajarsky, L., & Kipchatov, M. (2026). Modeling Russian-Slovak interlingual homonymy via embeddings. *Philological Class, 31*(1), 174–184. https://doi.org/10.26170/2071-2405-2026-31-1-174-184
+
+
 ### Repository structure
 
 ```
